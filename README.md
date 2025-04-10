@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/annieh195/LeetCode/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/annieh195/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/annieh195/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
