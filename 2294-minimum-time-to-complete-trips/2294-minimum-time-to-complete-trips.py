@@ -6,8 +6,8 @@ class Solution:
                 count.append(maxtime // time[i])
             return sum(count) >= totalTrips 
 
-        l = min(time)
-        r = 10**15
+        l = 1
+        r = min(time) * totalTrips
         while l <= r:
             mid = (l+r)//2
             if check(mid):
