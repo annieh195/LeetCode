@@ -1,10 +1,10 @@
 class Solution:
     def minimumTime(self, time: List[int], totalTrips: int) -> int:
         def check(maxtime):
-            count = []
-            for i in range(len(time)):
-                count.append(maxtime // time[i])
-            return sum(count) >= totalTrips 
+            total = 0
+            for t in time:
+                total += maxtime // t
+            return total >= totalTrips
 
         l = 1
         r = min(time) * totalTrips
