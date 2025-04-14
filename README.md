@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/annieh195/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/annieh195/LeetCode/tree/master/0011-container-with-most-water) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Stack
 |  |
 | ------- |
@@ -73,9 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/annieh195/LeetCode/tree/master/0069-sqrtx) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Sorting
+|  |
+| ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
