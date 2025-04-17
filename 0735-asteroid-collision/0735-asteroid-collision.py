@@ -4,9 +4,10 @@ class Solution:
 
         for ast in asteroids:
             while stack and stack[-1] > 0 and ast < 0:
-                if stack[-1] + ast < 0:
+                diff = ast + stack[-1]
+                if diff < 0:
                     stack.pop()
-                elif stack[-1] + ast > 0:
+                elif diff > 0:
                     break
                 else:
                     stack.pop()
