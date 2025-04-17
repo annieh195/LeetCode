@@ -11,15 +11,14 @@ class Solution:
                 return stack.append(int(stack.pop() / cur))
             
         stack = []
+        ops = "+-*/"
         op = "+"
         cur = 0
 
         for char in s + '+':
-            if char == " ":
-                continue
-            elif char.isdigit():
+            if char.isdigit():
                 cur = (cur * 10) + int(char)
-            else:
+            elif char in ops: 
                 check(op, stack, cur)
                 cur = 0 
                 op = char
