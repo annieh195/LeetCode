@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/annieh195/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annieh195/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2294-minimum-time-to-complete-trips](https://github.com/annieh195/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/annieh195/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/annieh195/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annieh195/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/annieh195/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
@@ -99,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
