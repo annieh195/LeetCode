@@ -1,7 +1,5 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        close = "("
-        openn = ")"
         stack = []
 
         for char in s:
