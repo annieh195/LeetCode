@@ -9,7 +9,6 @@ class BrowserHistory:
         self.forward_stack = []
 
     def back(self, steps: int) -> str:
-        # print(self.history_stack)
         for i in range(min(steps, len(self.history_stack)-1)):
             self.forward_stack.append(self.history_stack.pop())
         return self.history_stack[-1]
