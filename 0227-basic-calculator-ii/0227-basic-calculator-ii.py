@@ -25,12 +25,10 @@ class Solution:
                 if s[i] == "*":
                     stack.append(num2*num1)
                 elif s[i] == "/":
-                    # print(num2, num1, num2/num1)
                     a = abs(num2)//abs(num1)
                     if num2/num1 < 0:
                         a *= -1
                     stack.append(a)
-                    # print(stack)
                 i = j
       
         return int(sum(stack))
