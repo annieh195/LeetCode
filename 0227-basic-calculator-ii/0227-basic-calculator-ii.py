@@ -7,7 +7,6 @@ class Solution:
 
         def get_num(i):
             j = i + 1
-            a = 0
             while j < len(s) and s[j].isdigit():
                 j += 1
             stack.append(int(s[i:j]))
