@@ -8,16 +8,12 @@ class Solution:
 
         while white <= blue:
             if nums[white] == 2:
-                temp = nums[white]
-                nums[white] = nums[blue]
-                nums[blue] = temp
+                nums[white], nums[blue] = nums[blue], nums[white]
                 blue -= 1
             elif nums[white] == 1:
                 white += 1
-            else:
-                temp = nums[white]
-                nums[white] = nums[red]
-                nums[red] = temp
+            else:                
+                nums[white], nums[red] = nums[red], nums[white]
                 red += 1
                 white += 1
         return nums
