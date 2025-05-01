@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annieh195/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/annieh195/LeetCode/tree/master/0739-daily-temperatures) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1582-design-browser-history](https://github.com/annieh195/LeetCode/tree/master/1582-design-browser-history) |
 | [2294-minimum-time-to-complete-trips](https://github.com/annieh195/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/annieh195/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/annieh195/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/annieh195/LeetCode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/annieh195/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/annieh195/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/annieh195/LeetCode/tree/master/1582-design-browser-history) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/annieh195/LeetCode/tree/master/1582-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/annieh195/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
