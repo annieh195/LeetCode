@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/annieh195/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annieh195/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/annieh195/LeetCode/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annieh195/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/annieh195/LeetCode/tree/master/0739-daily-temperatures) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/annieh195/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2294-minimum-time-to-complete-trips](https://github.com/annieh195/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
