@@ -1,10 +1,9 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
         def check(num):
-            if num * num <= x:
+            if num*num <= x:
                 return True
-            return False
-
+                
         l = 0
         r = x
         while l <= r:
