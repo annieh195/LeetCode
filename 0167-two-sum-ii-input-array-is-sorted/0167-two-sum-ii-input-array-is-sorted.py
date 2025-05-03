@@ -1,8 +1,5 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-
-        [-1,0,1,2,3,4]
-
         l = 0
         r = len(nums)-1
 
