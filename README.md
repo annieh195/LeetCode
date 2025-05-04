@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/annieh195/LeetCode/tree/master/0739-daily-temperatures) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annieh195/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/annieh195/LeetCode/tree/master/1582-design-browser-history) |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/annieh195/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annieh195/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
