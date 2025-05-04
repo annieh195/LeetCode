@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/annieh195/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/annieh195/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/annieh195/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/annieh195/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/annieh195/LeetCode/tree/master/0027-remove-element) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/annieh195/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/annieh195/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/annieh195/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/annieh195/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/annieh195/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/annieh195/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/annieh195/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
