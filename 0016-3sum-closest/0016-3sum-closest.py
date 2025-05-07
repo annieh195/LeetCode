@@ -13,10 +13,10 @@ class Solution:
                 if dist < closest:
                     closest = min(closest, dist)
                     res = total
-                if total < target:
-                    l += 1
-                elif total > target:
-                    r -= 1
-                else:
+                if target == total:
                     return target
+                elif total < target:
+                    l += 1
+                else:
+                    r -= 1
         return res
