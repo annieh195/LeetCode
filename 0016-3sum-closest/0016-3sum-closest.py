@@ -9,8 +9,9 @@ class Solution:
             r = len(nums)-1
             while l < r:
                 total = nums[i] + nums[l] + nums[r]
-                if abs(target - total) < abs(closest):
-                    closest = target - total
+                dist = abs(target - total)
+                if dist < closest:
+                    closest = min(closest, dist)
                     res = total
                 if total < target:
                     l += 1
