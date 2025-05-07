@@ -6,10 +6,10 @@ class Solution:
         res = []
 
         for l1 in range(len(nums)):
-            if l1 > 0 and nums[l1] == nums[l1 - 1]:
+            if l1 > 0 and nums[l1] == nums[l1-1]:
                 continue
             for r1 in range(len(nums)-1, l1+2, -1):
-                if r1 < len(nums)-1 and nums[r1] == nums[r1 + 1]:
+                if r1 < len(nums)-1 and nums[r1] == nums[r1+1]:
                     continue
 
                 diff1 = target - (nums[l1] + nums[r1])
