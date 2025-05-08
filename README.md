@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/annieh195/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/annieh195/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/annieh195/LeetCode/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/annieh195/LeetCode/tree/master/0859-design-circular-deque) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/annieh195/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2294-minimum-time-to-complete-trips](https://github.com/annieh195/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/annieh195/LeetCode/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/annieh195/LeetCode/tree/master/1582-design-browser-history) |
 | [2413-smallest-number-in-infinite-set](https://github.com/annieh195/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annieh195/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2413-smallest-number-in-infinite-set](https://github.com/annieh195/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
