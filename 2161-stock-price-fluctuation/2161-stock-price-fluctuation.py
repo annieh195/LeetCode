@@ -6,22 +6,17 @@ class StockPrice:
         self.cur = 0
 
     def update(self, timestamp: int, price: int) -> None:
-        if timestamp not in self.mp:
-            self.s.add(price)
-            self.mp[timestamp] = price
-        else:
+        if timestamp in self.mp:
             prev = self.mp[timestamp]
             self.s.discard(prev)
-            self.s.add(price)
-            self.mp[timestamp] = price
+        self.s.add(price)
+        self.mp[timestamp] = price
         self.cur = max(self.cur, timestamp)
-        # print(self.mp, self.s, self.cur)
 
     def current(self) -> int:
         return self.mp[self.cur]
 
     def maximum(self) -> int:
-        # print(self.s[-1])
         return self.s[-1]
 
     def minimum(self) -> int:
