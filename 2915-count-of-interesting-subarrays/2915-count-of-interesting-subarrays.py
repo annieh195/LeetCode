@@ -11,9 +11,7 @@ class Solution:
         for i in range(len(count)):
             prefix.append(prefix[i]+count[i])
 
-        # print(count, prefix)
         mp = defaultdict(int)
-        # mp[0] = 1
         res = 0
         for r in range(len(nums)):
             mp[prefix[r]%modulo] += 1
