@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annieh195/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/annieh195/LeetCode/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/annieh195/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/annieh195/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/annieh195/LeetCode/tree/master/0525-contiguous-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/annieh195/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/annieh195/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/annieh195/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/annieh195/LeetCode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/annieh195/LeetCode/tree/master/0525-contiguous-array) |
 | [2161-stock-price-fluctuation](https://github.com/annieh195/LeetCode/tree/master/2161-stock-price-fluctuation) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/annieh195/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/annieh195/LeetCode/tree/master/0383-ransom-note) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/annieh195/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/annieh195/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/annieh195/LeetCode/tree/master/0169-majority-element) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/annieh195/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
