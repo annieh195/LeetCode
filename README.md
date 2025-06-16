@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/annieh195/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/annieh195/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/annieh195/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/annieh195/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/annieh195/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/annieh195/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/annieh195/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2730-maximum-or](https://github.com/annieh195/LeetCode/tree/master/2730-maximum-or) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/annieh195/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/annieh195/LeetCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/annieh195/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/annieh195/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
