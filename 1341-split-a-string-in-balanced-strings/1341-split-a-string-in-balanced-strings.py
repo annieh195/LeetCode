@@ -5,10 +5,10 @@ class Solution:
         countR = 0
 
         for i in range(len(s)):
-            if countL == countR and countL >= 1 and countR >= 1:
-                res += 1
             if s[i] == 'R':
                 countR += 1
             if s[i] == 'L':
                 countL += 1
-        return res+1
+            if countL == countR:
+                res += 1
+        return res
