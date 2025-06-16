@@ -9,11 +9,8 @@ class Solution:
                 res += 1
                 countL = 0
                 countR = 0
-                print(countL, countR, res)
             if s[i] == 'R':
                 countR += 1
-                print('R', i, countR)
             if s[i] == 'L':
                 countL += 1
-                print('L', i, countL)
         return res+1
