@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/annieh195/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/annieh195/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/annieh195/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2161-stock-price-fluctuation](https://github.com/annieh195/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/annieh195/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2915-count-of-interesting-subarrays](https://github.com/annieh195/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/annieh195/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/annieh195/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/annieh195/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/annieh195/LeetCode/tree/master/1708-design-parking-system) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/annieh195/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
