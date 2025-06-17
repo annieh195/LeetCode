@@ -4,9 +4,6 @@ class Solution:
         mp = defaultdict(int)
 
         for num in nums:
-            if num in mp:
-                mp[num] += 1
-            else:
-                mp[num] = 1
+            mp[num] += 1
             res += mp[k+num] + mp[num-k]
         return res  
