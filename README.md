@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/annieh195/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annieh195/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/annieh195/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/annieh195/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/annieh195/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/annieh195/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/annieh195/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2161-stock-price-fluctuation](https://github.com/annieh195/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/annieh195/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2915-count-of-interesting-subarrays](https://github.com/annieh195/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/annieh195/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/annieh195/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/annieh195/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/annieh195/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
