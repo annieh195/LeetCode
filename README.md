@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/annieh195/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/annieh195/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/annieh195/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/annieh195/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/annieh195/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/annieh195/LeetCode/tree/master/0075-sort-colors) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/annieh195/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/annieh195/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1708-design-parking-system](https://github.com/annieh195/LeetCode/tree/master/1708-design-parking-system) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/annieh195/LeetCode/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Segment Tree
 |  |
