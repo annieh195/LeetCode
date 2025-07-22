@@ -15,3 +15,4 @@ class Solution:
             else: 
                 stack.append(ast)
         return stack
+            
