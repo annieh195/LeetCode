@@ -4,7 +4,7 @@ class Solution:
 
         for i in range(len(nums)):
             prefix[i+1] = prefix[i] + nums[i]
-        print(prefix)
+            
         count = defaultdict(int)
         res = 0 
         for r in range(len(prefix)-1):
