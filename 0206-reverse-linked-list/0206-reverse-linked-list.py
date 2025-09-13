@@ -9,12 +9,10 @@ class Solution:
             return head
         prev = None
         cur = head
-        nex = cur.next
-
-        while nex != None:
+        
+        while cur != None:
+            nex = cur.next
             cur.next = prev
             prev = cur
             cur = nex
-            nex = cur.next
-        cur.next = prev
-        return cur
+        return prev
