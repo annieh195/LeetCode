@@ -8,4 +8,4 @@ class Solution:
         for word in words:
             if set(word.lower()).issubset(first) or set(word.lower()).issubset(second) or set(word.lower()).issubset(third):
                 res.append(word)
-        return res    
+        return res
