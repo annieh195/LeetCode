@@ -7,12 +7,11 @@ class Solution:
                 diff = ast + stack[-1]
                 if diff < 0:
                     stack.pop()
-                elif diff > 0:
-                    break
-                else:
+                elif diff == 0:
                     stack.pop()
                     break
-            else: 
+                else:
+                    break
+            else:
                 stack.append(ast)
         return stack
-            
