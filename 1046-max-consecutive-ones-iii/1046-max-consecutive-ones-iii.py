@@ -14,8 +14,3 @@ class Solution:
             if count <= k:
                 res = max(res, r-l+1)
         return res
-        # [1,1,1,0,0,0,1,1,1,1,0]
-        #        l
-        #            r
-        # count = 2
-        # res = 5
