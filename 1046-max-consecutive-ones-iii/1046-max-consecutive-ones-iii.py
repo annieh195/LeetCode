@@ -7,10 +7,9 @@ class Solution:
         for r in range(len(nums)):
             if nums[r] == 0:
                 count += 1
-            while l <= r and count > k:
-                l += 1
-                if nums[l-1] == 0:
+            while count > k:
+                if nums[l] == 0:
                     count -= 1
-            if count <= k:
-                res = max(res, r-l+1)
+                l += 1
+            res = max(res, r-l+1)
         return res
