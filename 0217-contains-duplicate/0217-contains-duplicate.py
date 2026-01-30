@@ -4,7 +4,6 @@ class Solution:
 
         for num in nums:
             mp[num] += 1
-        
-        if max(mp.values()) >= 2:
-            return True
+            if mp[num] >= 2:
+                return True
         return False
