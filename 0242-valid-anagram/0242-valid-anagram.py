@@ -1,18 +1,13 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+
         mp1 = defaultdict(int)
         mp2 = defaultdict(int)
 
-        if len(s) != len(t):
-            return False
+        for charS, charT in zip(s, t):
+            mp1[charS] += 1
+            mp2[charT] += 1
         
-        for char in s:
-            mp1[char] += 1
-
-        for char in t:
-            mp2[char] += 1
-        
-        for char in s:
-            if mp1[char] != mp2[char]:
-                return False
-        return True
+        return mp1 == mp2
