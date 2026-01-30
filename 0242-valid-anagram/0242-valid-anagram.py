@@ -12,3 +12,6 @@ class Solution:
             if val != 0:
                 return False
         return True
+
+    # Time: O(n+m) n = len(s), m = len(t)
+    # Space: O(1) only 26 chars
