@@ -3,11 +3,12 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        mp1 = defaultdict(int)
-        mp2 = defaultdict(int)
-
-        for charS, charT in zip(s, t):
-            mp1[charS] += 1
-            mp2[charT] += 1
+        count = [0] * 26
+        for i in range(len(s)):
+            count[ord(s[i]) - ord('a')] += 1
+            count[ord(t[i]) - ord('a')] -= 1
         
-        return mp1 == mp2
+        for val in count:
+            if val != 0:
+                return False
+        return True
