@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/annieh195/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/annieh195/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3110-score-of-a-string](https://github.com/annieh195/LeetCode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
