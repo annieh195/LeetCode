@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annieh195/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/annieh195/LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/annieh195/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/annieh195/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/annieh195/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/annieh195/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/annieh195/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/annieh195/LeetCode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/annieh195/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annieh195/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1762-furthest-building-you-can-reach](https://github.com/annieh195/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/annieh195/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2730-maximum-or](https://github.com/annieh195/LeetCode/tree/master/2730-maximum-or) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/annieh195/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
