@@ -1,12 +1,9 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        l = 0
-        r = len(nums)-1
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        mp = defaultdict(int)
 
-        while l <= r:
-            if nums[l] + nums[r] == target:
-                return [l+1, r+1]
-            elif nums[l] + nums[r] > target:
-                r -= 1
-            else:
-                l += 1
+        for i in range(len(numbers)):
+            diff = target - numbers[i]
+            if diff in mp:
+                return [mp[diff]+1, i+1]
+            mp[numbers[i]] = i
