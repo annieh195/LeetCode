@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/annieh195/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annieh195/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/annieh195/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/annieh195/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/annieh195/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/annieh195/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/annieh195/LeetCode/tree/master/0056-merge-intervals) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/annieh195/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/annieh195/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/annieh195/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/annieh195/LeetCode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/annieh195/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/annieh195/LeetCode/tree/master/0169-majority-element) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/annieh195/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/annieh195/LeetCode/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2662-check-knight-tour-configuration](https://github.com/annieh195/LeetCode/tree/master/2662-check-knight-tour-configuration) |
