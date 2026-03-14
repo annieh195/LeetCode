@@ -7,9 +7,7 @@ class Solution:
         pq = deque()
         while maxHeap or pq:
             time += 1
-            if not maxHeap:
-                time = pq[0][1]
-            else:
+            if maxHeap:
                 task = 1 + heapq.heappop(maxHeap)
                 if task:
                     pq.append([task, time + n])
