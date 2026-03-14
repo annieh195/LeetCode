@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/annieh195/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/annieh195/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/annieh195/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/annieh195/LeetCode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/annieh195/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/annieh195/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/annieh195/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/annieh195/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/annieh195/LeetCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/annieh195/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/annieh195/LeetCode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/annieh195/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annieh195/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/annieh195/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/annieh195/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/annieh195/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/annieh195/LeetCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/annieh195/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/annieh195/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/annieh195/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -369,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/annieh195/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annieh195/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/annieh195/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
