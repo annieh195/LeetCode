@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/annieh195/LeetCode/tree/master/0859-design-circular-deque) |
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/annieh195/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/annieh195/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/annieh195/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/annieh195/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/annieh195/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/annieh195/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/annieh195/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/annieh195/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annieh195/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/annieh195/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2161-stock-price-fluctuation](https://github.com/annieh195/LeetCode/tree/master/2161-stock-price-fluctuation) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/annieh195/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/annieh195/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Number Theory
 |  |
 | ------- |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/annieh195/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -447,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annieh195/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
