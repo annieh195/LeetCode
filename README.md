@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/annieh195/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/annieh195/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/annieh195/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/annieh195/LeetCode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/annieh195/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2662-check-knight-tour-configuration](https://github.com/annieh195/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [2678-number-of-senior-citizens](https://github.com/annieh195/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2730-maximum-or](https://github.com/annieh195/LeetCode/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/annieh195/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/annieh195/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
