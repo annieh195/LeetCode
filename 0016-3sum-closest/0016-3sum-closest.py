@@ -4,13 +4,13 @@ class Solution:
         res = 0
         nums.sort()
 
-        for i in range(len(nums)):
+        for i in range(len(nums)-2):
             l = i+1
             r = len(nums)-1
             while l < r:
                 total = nums[i] + nums[l] + nums[r]
                 dist = abs(target - total)
-                
+
                 if dist < closest:
                     closest = dist
                     res = total
