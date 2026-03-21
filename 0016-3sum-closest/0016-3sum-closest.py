@@ -10,9 +10,11 @@ class Solution:
             while l < r:
                 total = nums[i] + nums[l] + nums[r]
                 dist = abs(target - total)
+                
                 if dist < closest:
-                    closest = min(closest, dist)
+                    closest = dist
                     res = total
+
                 if target == total:
                     return target
                 elif total < target:
