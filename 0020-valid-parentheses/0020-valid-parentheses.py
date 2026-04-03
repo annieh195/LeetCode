@@ -1,18 +1,11 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        openBrackets = ['(', '[', '{']
-        stack = []
-
-        if len(s) < 2:
-            return False
-
+        check = []
+        mp = {")":"(", "}":"{", "]":"["}
         for char in s:
-            if char in openBrackets:
-                stack.append(char)
-            elif stack and ((stack[-1] == '(' and char == ')') or (stack[-1] == '[' and char == ']') or (stack[-1] == '{' and char == '}')):
-                stack.pop()
-        
-        if stack:
-            return False
-        else:
-            return True
+            if char in mp.values():
+                check.append(char)
+            elif char in mp.keys():
+                if not check or mp[char] != check.pop():
+                    return False
+        return not check
