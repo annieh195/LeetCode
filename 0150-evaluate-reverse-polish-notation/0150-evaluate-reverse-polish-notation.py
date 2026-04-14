@@ -14,10 +14,10 @@ class Solution:
         ops = ['+', '-', '*', '/']
         for i in range(len(tokens)):
             if tokens[i] in ops:
-                num2 = int(stack.pop())
-                num1 = int(stack.pop())
+                num2 = stack.pop()
+                num1 = stack.pop()
                 ans = calculation(tokens[i], num1, num2)
                 stack.append(ans)
             else:
-                stack.append(tokens[i])
-        return int(stack[-1])
+                stack.append(int(tokens[i]))
+        return stack[-1]
