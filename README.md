@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/annieh195/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/annieh195/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/annieh195/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/annieh195/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/annieh195/LeetCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/annieh195/LeetCode/tree/master/0500-keyboard-row) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/annieh195/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/annieh195/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/annieh195/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/annieh195/LeetCode/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/annieh195/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
