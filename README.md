@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/annieh195/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/annieh195/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/annieh195/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/annieh195/LeetCode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/annieh195/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/annieh195/LeetCode/tree/master/0729-my-calendar-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/annieh195/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/annieh195/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/annieh195/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/annieh195/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/annieh195/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/annieh195/LeetCode/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/annieh195/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/annieh195/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/annieh195/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
