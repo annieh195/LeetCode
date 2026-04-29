@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/annieh195/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/annieh195/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/annieh195/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/annieh195/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/annieh195/LeetCode/tree/master/1037-valid-boomerang) |
 | [1046-max-consecutive-ones-iii](https://github.com/annieh195/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/annieh195/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/annieh195/LeetCode/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/annieh195/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
