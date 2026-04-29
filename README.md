@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/annieh195/LeetCode/tree/master/1037-valid-boomerang) |
 | [1046-max-consecutive-ones-iii](https://github.com/annieh195/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/annieh195/LeetCode/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/annieh195/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/annieh195/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/annieh195/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/annieh195/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/annieh195/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/annieh195/LeetCode/tree/master/1122-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/annieh195/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/annieh195/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/annieh195/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1122-relative-sort-array](https://github.com/annieh195/LeetCode/tree/master/1122-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/annieh195/LeetCode/tree/master/0997-find-the-town-judge) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/annieh195/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
