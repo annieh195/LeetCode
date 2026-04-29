@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annieh195/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/annieh195/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/annieh195/LeetCode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/annieh195/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/annieh195/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/annieh195/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/annieh195/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annieh195/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1122-relative-sort-array](https://github.com/annieh195/LeetCode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/annieh195/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
