@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/annieh195/LeetCode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/annieh195/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1762-furthest-building-you-can-reach](https://github.com/annieh195/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/annieh195/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/annieh195/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/annieh195/LeetCode/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2662-check-knight-tour-configuration](https://github.com/annieh195/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Segment Tree
