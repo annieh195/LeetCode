@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/annieh195/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/annieh195/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/annieh195/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/annieh195/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/annieh195/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2294-minimum-time-to-complete-trips](https://github.com/annieh195/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/annieh195/LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
