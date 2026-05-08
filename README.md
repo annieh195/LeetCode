@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/annieh195/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/annieh195/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/annieh195/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1762-furthest-building-you-can-reach](https://github.com/annieh195/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/annieh195/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/annieh195/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/annieh195/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/annieh195/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/annieh195/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/annieh195/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1985-maximum-subarray-min-product](https://github.com/annieh195/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 | [2730-maximum-or](https://github.com/annieh195/LeetCode/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/annieh195/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
