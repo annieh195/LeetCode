@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/annieh195/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/annieh195/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/annieh195/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/annieh195/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/annieh195/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/annieh195/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/annieh195/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/annieh195/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/annieh195/LeetCode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1985-maximum-subarray-min-product](https://github.com/annieh195/LeetCode/tree/master/1985-maximum-subarray-min-product) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/annieh195/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/annieh195/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/annieh195/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/annieh195/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/annieh195/LeetCode/tree/master/1708-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/annieh195/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/annieh195/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/annieh195/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/annieh195/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/annieh195/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Design
