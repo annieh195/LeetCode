@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/annieh195/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/annieh195/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/annieh195/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1470-shuffle-the-array](https://github.com/annieh195/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/annieh195/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/annieh195/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annieh195/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
