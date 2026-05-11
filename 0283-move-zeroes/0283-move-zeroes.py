@@ -15,3 +15,4 @@ class Solution:
         
         for k in range(i, len(nums)):
             nums[k] = 0
+            
