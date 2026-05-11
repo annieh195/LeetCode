@@ -11,5 +11,4 @@ class Solution:
                 l += 1
             if r-l+1 == k:
                 ans = max(ans, window/k)
-
         return ans
